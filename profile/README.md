@@ -6,8 +6,8 @@
 |-------|----------------------------------------------------------------------------|
 | Day 1 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_1) |
 | Day 2 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_2) |
-| Day 3 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_3) |
-| Day 4 | **TBD**                                                                    |
+| Day 4 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_3) |
+| Day 5 | **TBD**                                                                    |
 
 ### 📌 2021
 
