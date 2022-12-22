@@ -2,13 +2,13 @@
 
 ### 📌 2022
 
-| Days  | Link                                                                       |
-|-------|----------------------------------------------------------------------------|
-| Day 1 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_1) |
-| Day 2 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_2) |
-| Day 3 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_cd)    |
-| Day 4 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_3) |
-| Day 5 | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_5) |
+| Days        | Link                                                                       |
+| ----------- | -------------------------------------------------------------------------- |
+| Day 1       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_1) |
+| Day 2       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_2) |
+| Company day | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_cd)    |
+| Day 4       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_3) |
+| Day 5       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_5) |
 
 ### 📌 2021
 
