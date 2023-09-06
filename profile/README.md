@@ -1,6 +1,11 @@
 ## Madeira International Workshop in Machine Learning
 
+### 📌 2023
+
 ### 📌 2022
+
+<details>
+  <summary>Click to expand!</summary>
 
 | Days        | Link                                                                       |
 | ----------- | -------------------------------------------------------------------------- |
@@ -9,6 +14,8 @@
 | Company day | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_cd)    |
 | Day 4       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_3) |
 | Day 5       | [here](https://github.com/Madeira-International-Workshop-in-ML/2022_day_5) |
+
+</details>
 
 ### 📌 2021
 
