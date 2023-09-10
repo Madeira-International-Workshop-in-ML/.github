@@ -2,6 +2,11 @@
 
 ### 📌 2023
 
+| Days                   | Link                                                                                     |
+| ---------------------- | ---------------------------------------------------------------------------------------- |
+| Introduction to Python | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-introduction-python) |
+
+
 ### 📌 2022
 
 <details>
