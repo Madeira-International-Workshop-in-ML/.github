@@ -2,13 +2,14 @@
 
 ### 📌 2023
 
-| Days                        | Link                                                                                         |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| Introduction to Python      | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-introduction-python)     |
-| Introduction to AI          | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_introduction_to_ai)      |
-| Project                     | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_project)                 |
-| Prompt Engineering - Part 1 | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_PE_pt1)                  |
-| Prompt Engineering - Part 2 | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-prompt-engineering-code) |
+| Days                        | Link                                                                                            |
+| --------------------------- | ----------------------------------------------------------------------------------------------- |
+| Introduction to Python      | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-introduction-python)        |
+| Introduction to AI          | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_introduction_to_ai)         |
+| Project                     | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_project)                    |
+| Prompt Engineering - Part 1 | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_PE_pt1)                     |
+| Prompt Engineering - Part 2 | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-prompt-engineering-code)    |
+| Prompt Engineering - Part 3 | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-prompt-engineering-chatbot) |
 
 ### 📌 2022
 
