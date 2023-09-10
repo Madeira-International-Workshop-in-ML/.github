@@ -5,7 +5,8 @@
 | Days                   | Link                                                                                     |
 | ---------------------- | ---------------------------------------------------------------------------------------- |
 | Introduction to Python | [here](https://github.com/Madeira-International-Workshop-in-ML/2023-introduction-python) |
-
+| Introduction to AI     | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_introduction_to_ai) |
+| Project                | [here](https://github.com/Madeira-International-Workshop-in-ML/2023_project)) |
 
 ### 📌 2022
 
